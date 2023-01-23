@@ -7,9 +7,7 @@ we have a collection of records stored on disk that contain information to stude
 Each records contans five pieces of information for an individual student:
 
 1. The student's id number represented as an integer.
-2. 
-3. Their first and last names, which are strings.
-4. 
-5. An integer classification code in the range [1,...,4] that indicates if the student is a freshman, sophomore, junior, or senior.
-6. 
-7. Their current grade point average (GPA) represented as a floating-point value.
+2. Their first and last names, which are strings. 
+3. An integer classification code in the range [1,...,4] that indicates if the student is a freshman, sophomore, junior, or senior.
+4. Their current grade point average (GPA) represented as a floating-point value.
+
