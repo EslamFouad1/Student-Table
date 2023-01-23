@@ -11,3 +11,6 @@ Each records contans five pieces of information for an individual student:
 3. An integer classification code in the range [1,...,4] that indicates if the student is a freshman, sophomore, junior, or senior.
 4. Their current grade point average (GPA) represented as a floating-point value.
 
+
+
+![LIST OF STUDENTS](https://i.ibb.co/QJpJb7M/Table-Of-Students.jpg)
